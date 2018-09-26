@@ -1,0 +1,1 @@
+This is Readme text which is static assests
